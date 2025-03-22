@@ -1,6 +1,6 @@
 # 👠 NexStep - Backend
 
-NexStep is the backend for the **shoe wear e-commerce platform**, built with **Node.js**, **Express**, and **MongoDB**. It provides a **RESTful API** for managing users, products, orders, and integrates **JWT authentication** and **PayHere payment gateway** for secure transactions.
+NexStep is the backend for the **footwear e-commerce platform**, built with **Node.js**, **Express**, and **MongoDB**. It provides a **RESTful API** for managing users, products, orders, and integrates **JWT authentication** and **PayHere payment gateway** for secure transactions.
 
 ## 🚀 Features
 
